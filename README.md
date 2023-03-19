@@ -2,5 +2,5 @@
 
 
 <p> 
-    <img width="1000" height="500" src="/assets/img/pokedexPage.jpg">
+    <img width="300" height="500" src="/assets/img/pokedexPage.jpg">
 </p>
